@@ -12,6 +12,6 @@ In addition, actual probability parameters used in computational experiments are
 
 ## Reference  
 Masato Yano and Yuki Kato,
-Using hidden Markov models to investigate G-quadruplex motifs in genomic sequences,
+**Using hidden Markov models to investigate G-quadruplex motifs in genomic sequences**,
 *BMC Genomics*, vol. 15(Suppl 9), S15, Dec. 2014.
 (This paper is also presented at the 13th International Conference on Bioinformatics (InCoB2014), Sydney, Australia, Aug. 2014.)
