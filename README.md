@@ -1,4 +1,4 @@
-# g4hmm
+# G4 detection using HMM
 **Using hidden Markov models to investigate G-quadruplex motifs in genomic sequences**
 
 Last modified: 2016-12-07
