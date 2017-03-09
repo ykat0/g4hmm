@@ -15,5 +15,6 @@ Masato Yano and Yuki Kato,
 **Using hidden Markov models to investigate G-quadruplex motifs in genomic sequences**,
 *BMC Genomics*, vol. 15(Suppl 9), S15, Dec. 2014.
 
+---
 If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)  
 *Graduate School of Medicine, Osaka University, Japan*
