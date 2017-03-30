@@ -1,7 +1,7 @@
 # G4 detection using HMM
 **Using hidden Markov models to investigate G-quadruplex motifs in genomic sequences**
 
-Last modified: 2016-12-07
+Last updated: 2016-12-07
 
 ## C++ and Perl programs  
 The programs (**g4hmm-1.0.0.tar.gz**) for running HMM-based methods and regular expression-based method are available.
